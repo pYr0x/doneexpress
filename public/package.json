@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp/index.stache!done-autorender",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can-define": "^2.0.0",
+    "done-autorender": "^2.0.0",
+    "steal": "^1.11.6",
+    "can-stache": "^4.0.2",
+    "steal-stache": "^4.0.1"
+  },
+  "steal": {}
+}
